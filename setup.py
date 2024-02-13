@@ -20,7 +20,7 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: Ubuntu 22.04",
     ],
-    packages=['diffusion_edf'],
+    pXackages=['diffusion_edf'],
     python_requires="<3.9",
     install_requires=[
         'torch',
